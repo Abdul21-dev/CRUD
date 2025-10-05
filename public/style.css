@@ -1,0 +1,32 @@
+body{
+    background-color: #da1d81;
+}
+h1{
+    background-color: #ffcff1;
+    color: maroon;
+    width:100px;
+    border-radius: 10px;
+}
+
+.posts{
+    background-color: #00ced1;
+}
+
+.user{
+    background-color: #daa520;
+    width: 127px;
+}
+
+.content{
+    background-color: #99e6b3;
+    height: 60px;
+}
+
+.newpost{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: #0093af;
+}
